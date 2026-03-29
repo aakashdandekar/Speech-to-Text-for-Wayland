@@ -137,4 +137,4 @@ python main.py [interactive|toggle] \
 
 ## License
 
-Add your preferred license here before publishing the repository.
+Apache 2.0 License
